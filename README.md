@@ -1,4 +1,4 @@
-
+[![CircleCI](https://circleci.com/gh/meezaan/latin2Arabic.svg?style=shield)](https://circleci.com/gh/meezaan/latin2Arabic)
 
 بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
